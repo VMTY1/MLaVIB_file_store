@@ -26,6 +26,10 @@ I Guess This Will Be Usefull For Many People.....😇.
 - More than one Posts in One Link.
 - Can be deployed on heroku directly.
 
+## Deploy to Heroku 
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VMTY1/MLaVIB_file_store)
+
 ### Setup
 
 - Add the bot to Database Channel with all permission
@@ -37,7 +41,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VMTY1/MLaVIB_file_store)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)</br>
 
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
   <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="149">
